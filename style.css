@@ -1,0 +1,76 @@
+body{
+    background-image: url(background.jpg);
+    background-size: cover;
+    text-align: center;
+    width: 1900px;
+    margin: auto;
+}
+
+.container{
+    background-color:rgba(0,0,0,0.50);
+    width: 1210px;
+    margin: auto;
+    border-radius: 15px;
+    height: 850px;
+    margin-top: 30px;
+}
+
+header > img{
+    width:auto;
+    height: 100px;
+    margin-top: 110px; 
+    text-align: center;
+}
+
+nav > span{
+    color: lime;
+    font-size: 30px;
+}
+
+nav div{
+    background-color:limegreen;
+    height:auto;
+    width: 950px;
+    padding: 10px;
+    margin-left: 120px;
+    margin-bottom: 30px;
+    margin-top: 10px;
+}
+
+.scooter{
+    font-size: 25px;
+}
+
+.info{
+    font-size: 18px;
+}
+
+.scooter1,.scooter2,.scooter3{
+    text-align:left;
+    margin-left: 120px;
+    color: white;
+}
+
+.load1{
+    width: 340px;
+    height:30px;
+    background-color: orange;
+    border-radius: 5px;
+    margin-bottom: 30px;
+}
+
+.load2{
+    width: 580px;
+    height:30px;
+    background-color: lime;
+    border-radius: 5px;
+    margin-bottom: 30px;
+}
+
+.load3{
+    width: 140px;
+    height:30px;
+    background-color: red;
+    border-radius: 5px;
+}
+
